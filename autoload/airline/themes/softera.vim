@@ -2,8 +2,9 @@
 " softera
 " 
 " URL:https://github.com/soft-aesthetic/soft-era-vim
-" Author: Colors <@animalphase> / Port <@ngscheurich>
-" Last Change: 2018/04/12 17:52
+" Author: Colors &lt;@animalphase&gt; / Port &lt;@ngscheurich&gt;
+" License: 
+" Last Change: 2018/05/16 19:02
 " ============================================================
 
 let g:airline#themes#softera#palette = {}
