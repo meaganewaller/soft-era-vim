@@ -11,3 +11,7 @@ airline:
   - name: 'softera'
     palette: 'soft-era'
     style: 'regular'
+lightline:
+  - name: 'softera'
+    palette: 'soft-era'
+    style: 'regular'
